@@ -53,3 +53,13 @@ npm start
 - LinkedIn: [Ummar Farooq PK](https://linkedin.com/in/ummarfarooq-pk)
 
 - Live Demo: [talker.fun](https://talker.fun)
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+## Disclaimer
+
+This project was developed for educational and personal learning purposes.  
+It is provided as-is under the MIT License. The author is **not responsible** for any misuse, illegal activity, or violations of laws caused by deploying or modifying this application. Use responsibly and at your own risk.
+
