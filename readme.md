@@ -52,7 +52,7 @@ npm start
 
 - LinkedIn: [Ummar Farooq PK](https://linkedin.com/in/ummarfarooq-pk)
 
-- Live Demo: [talker.fun](https://talker.fun)
+- Live Demo: [talker](https://talker.cfd)
 
 ## License
 
